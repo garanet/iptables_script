@@ -1,4 +1,7 @@
 #!/bin/bash
+# www.garanet.net
+# Bash script to enable the firewall on startup of your Ubuntu server.
+# https://github.com/garanet/iptables_script.git
 
 RETVAL=0
 
